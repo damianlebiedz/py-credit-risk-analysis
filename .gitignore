@@ -1,0 +1,18 @@
+# Środowiska wirtualne
+venv/
+.venv/
+ENV/
+
+# Pliki cache
+__pycache__/
+*.py[cod]
+
+# Pliki i foldery związane z Jupyter
+.ipynb_checkpoints
+
+# Pliki wynikowe Pythona
+*.egg-info/
+*.egg
+
+# Pliki z konfiguracjami
+*.log

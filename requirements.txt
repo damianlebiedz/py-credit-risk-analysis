@@ -1,0 +1,6 @@
+pandas          # do pracy z danymi
+numpy           # do operacji matematycznych
+scikit-learn    # do klasyfikacji i budowy modeli
+matplotlib      # do wizualizacji danych
+seaborn         # do bardziej zaawansowanej wizualizacji
+jupyter         # opcjonalnie, jeśli chcesz używać Jupyter Notebook
