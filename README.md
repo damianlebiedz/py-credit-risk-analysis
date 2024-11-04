@@ -4,7 +4,7 @@ Analiza danych kredytowych w Pythonie.
 
 ## Spis treści
 - [Technologie](#technologie)
-- [Baza danych](#baza_danych)
+- [Baza danych](#baza-danych)
 - [Instalacja](#instalacja)
 - [Screenshoty](#screenshoty)
 - [Kontakt](#kontakt)
