@@ -26,4 +26,3 @@ Quinlan, J. (1987). Credit Approval [Dataset]. UCI Machine Learning Repository. 
 ## Kontakt
 Damian Lebiedź | 
 https://damianlebiedz.github.io |
-www.linkedin.com/in/damianlebiedz
