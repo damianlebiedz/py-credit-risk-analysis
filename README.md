@@ -1,4 +1,4 @@
-# Credit-risk analysis | W TRAKCIE TWORZENIA
+2# Credit-risk analysis | W TRAKCIE TWORZENIA
 
 Analiza danych kredytowych w Pythonie.
 
@@ -25,4 +25,4 @@ Quinlan, J. (1987). Credit Approval [Dataset]. UCI Machine Learning Repository. 
 
 ## Kontakt
 Damian Lebiedź | 
-https://damianlebiedz.github.io |
+https://damianlebiedz.github.io
