@@ -1,4 +1,4 @@
-2# Credit-risk analysis | W TRAKCIE TWORZENIA
+# Credit-risk analysis | W TRAKCIE TWORZENIA
 
 Analiza danych kredytowych w Pythonie.
 
